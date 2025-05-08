@@ -58,7 +58,7 @@ def load_config() -> Config:
             os.getenv("OUTPUT_FILE", "data/firecrawl_chunked_dataset.json")
         ),
         blog_keywords=[
-            "firecrawl",
+            "unsloth",
             "api",
             "scraping",
             "web scraping",
