@@ -1,0 +1,830 @@
+2025-03-08 09:20:39,959 - INFO - Found 0 markdown files to process
+2025-03-08 09:20:39,965 - INFO - Successfully created dataset with 0 chunks
+2025-03-08 09:32:32,813 - INFO - Found 137 markdown files to process
+2025-03-08 09:32:32,813 - INFO - Processing 3 chunks from .md
+2025-03-08 09:32:32,813 - INFO - Found 3 informative chunks
+2025-03-08 09:32:32,829 - INFO - Processing 21 chunks from ai-resume-parser-job-matcher-python.md
+2025-03-08 09:32:32,831 - INFO - Found 21 informative chunks
+2025-03-08 09:32:32,832 - INFO - Processing 13 chunks from an-adventure-in-scaling.md
+2025-03-08 09:32:32,834 - INFO - Found 13 informative chunks
+2025-03-08 09:32:32,837 - INFO - Processing 25 chunks from automated-competitor-price-scraping.md
+2025-03-08 09:32:32,837 - INFO - Found 25 informative chunks
+2025-03-08 09:32:32,847 - INFO - Processing 28 chunks from automated-data-collection-guide.md
+2025-03-08 09:32:32,847 - INFO - Found 28 informative chunks
+2025-03-08 09:32:32,852 - INFO - Processing 18 chunks from automated-price-tracking-tutorial-python.md
+2025-03-08 09:32:32,855 - INFO - Found 18 informative chunks
+2025-03-08 09:32:32,855 - INFO - Processing 30 chunks from automated-web-scraping-free-2025.md
+2025-03-08 09:32:32,855 - INFO - Found 30 informative chunks
+2025-03-08 09:32:32,863 - INFO - Processing 29 chunks from beautifulsoup4-vs-scrapy-comparison.md
+2025-03-08 09:32:32,866 - INFO - Found 29 informative chunks
+2025-03-08 09:32:32,866 - INFO - Processing 3 chunks from Build-a-Full-Stack-AI-Web-App-in-12-Minutes.md
+2025-03-08 09:32:32,866 - INFO - Found 3 informative chunks
+2025-03-08 09:32:32,866 - INFO - Processing 11 chunks from building-knowledge-graphs-from-web-data-camelai-firecrawl.md
+2025-03-08 09:32:32,866 - INFO - Found 11 informative chunks
+2025-03-08 09:32:32,870 - INFO - Processing 3 chunks from category-customer-stories.md
+2025-03-08 09:32:32,870 - INFO - Found 3 informative chunks
+2025-03-08 09:32:32,871 - INFO - Processing 3 chunks from category-product.md
+2025-03-08 09:32:32,871 - INFO - Found 3 informative chunks
+2025-03-08 09:32:32,871 - INFO - Processing 2 chunks from category-tips-and-resources.md
+2025-03-08 09:32:32,871 - INFO - Found 2 informative chunks
+2025-03-08 09:32:32,874 - INFO - Processing 3 chunks from category-tutorials.md
+2025-03-08 09:32:32,874 - INFO - Found 3 informative chunks
+2025-03-08 09:32:32,874 - INFO - Processing 9 chunks from chat-with-website.md
+2025-03-08 09:32:32,874 - INFO - Found 9 informative chunks
+2025-03-08 09:32:32,874 - INFO - Processing 5 chunks from cloudflare-error-1015-how-to-solve-it.md
+2025-03-08 09:32:32,874 - INFO - Found 5 informative chunks
+2025-03-08 09:32:32,879 - INFO - Processing 13 chunks from complete-guide-to-curl-authentication-firecrawl-api.md
+2025-03-08 09:32:32,879 - INFO - Found 13 informative chunks
+2025-03-08 09:32:32,883 - INFO - Processing 21 chunks from complete-guide-to-data-enrichment.md
+2025-03-08 09:32:32,883 - INFO - Found 21 informative chunks
+2025-03-08 09:32:32,883 - INFO - Processing 9 chunks from contradiction-agent.md
+2025-03-08 09:32:32,883 - INFO - Found 9 informative chunks
+2025-03-08 09:32:32,886 - INFO - Processing 8 chunks from crawlbench-llm-extraction.md
+2025-03-08 09:32:32,886 - INFO - Found 8 informative chunks
+2025-03-08 09:32:32,886 - INFO - Processing 19 chunks from crunchbase-scraping-with-firecrawl-claude.md
+2025-03-08 09:32:32,886 - INFO - Found 19 informative chunks
+2025-03-08 09:32:32,895 - INFO - Processing 19 chunks from custom-instruction-datasets-llm-fine-tuning.md
+2025-03-08 09:32:32,898 - INFO - Found 19 informative chunks
+2025-03-08 09:32:32,899 - INFO - Processing 9 chunks from data-extraction-using-llms.md
+2025-03-08 09:32:32,899 - INFO - Found 9 informative chunks
+2025-03-08 09:32:32,902 - INFO - Processing 24 chunks from deepseek-rag-documentation-assistant.md
+2025-03-08 09:32:32,906 - INFO - Found 24 informative chunks
+2025-03-08 09:32:32,911 - INFO - Processing 48 chunks from deploy-web-scrapers.md
+2025-03-08 09:32:32,912 - INFO - Found 48 informative chunks
+2025-03-08 09:32:32,916 - INFO - Processing 14 chunks from fine-tuning-deepseek.md
+2025-03-08 09:32:32,916 - INFO - Found 14 informative chunks
+2025-03-08 09:32:32,916 - INFO - Processing 8 chunks from firecrawl-july-2024-updates.md
+2025-03-08 09:32:32,916 - INFO - Found 8 informative chunks
+2025-03-08 09:32:32,920 - INFO - Processing 8 chunks from firecrawl-june-2024-updates.md
+2025-03-08 09:32:32,920 - INFO - Found 8 informative chunks
+2025-03-08 09:32:32,920 - INFO - Processing 13 chunks from firecrawl-launch-week-1-recap.md
+2025-03-08 09:32:32,920 - INFO - Found 13 informative chunks
+2025-03-08 09:32:32,920 - INFO - Processing 14 chunks from getting-started-with-predicted-outputs-openai.md
+2025-03-08 09:32:32,920 - INFO - Found 14 informative chunks
+2025-03-08 09:32:32,924 - INFO - Processing 20 chunks from grok-2-setup-and-web-crawler-example.md
+2025-03-08 09:32:32,924 - INFO - Found 20 informative chunks
+2025-03-08 09:32:32,924 - INFO - Processing 3 chunks from how-athena-intelligence-empowers-analysts-with-firecrawl.md
+2025-03-08 09:32:32,924 - INFO - Found 3 informative chunks
+2025-03-08 09:32:32,924 - INFO - Processing 3 chunks from how-cargo-empowers-gtm-teams-with-firecrawl.md
+2025-03-08 09:32:32,924 - INFO - Found 3 informative chunks
+2025-03-08 09:32:32,924 - INFO - Processing 3 chunks from how-gamma-supercharges-onboarding-with-firecrawl.md
+2025-03-08 09:32:32,924 - INFO - Found 3 informative chunks
+2025-03-08 09:32:32,924 - INFO - Processing 3 chunks from how-replit-uses-firecrawl-to-power-ai-agents.md
+2025-03-08 09:32:32,924 - INFO - Found 3 informative chunks
+2025-03-08 09:32:32,930 - INFO - Processing 3 chunks from how-stack-ai-uses-firecrawl-to-power-ai-agents.md
+2025-03-08 09:32:32,930 - INFO - Found 3 informative chunks
+2025-03-08 09:32:32,930 - INFO - Processing 10 chunks from How-to-Create-an-llms-txt-File-for-Any-Website.md
+2025-03-08 09:32:32,930 - INFO - Found 10 informative chunks
+2025-03-08 09:32:32,932 - INFO - Processing 9 chunks from how-to-easily-install-requests-with-pip-and-python.md
+2025-03-08 09:32:32,932 - INFO - Found 9 informative chunks
+2025-03-08 09:32:32,936 - INFO - Processing 21 chunks from how-to-generate-sitemaps-using-firecrawl-map-endpoint.md
+2025-03-08 09:32:32,938 - INFO - Found 21 informative chunks
+2025-03-08 09:32:32,939 - INFO - Processing 9 chunks from how-to-quickly-install-beautifulsoup-with-python.md
+2025-03-08 09:32:32,939 - INFO - Found 9 informative chunks
+2025-03-08 09:32:32,939 - INFO - Processing 16 chunks from How-to-Talk-with-Any-Website-Using-OpenAIs-Realtime-API-and-Firecrawl.md
+2025-03-08 09:32:32,939 - INFO - Found 16 informative chunks
+2025-03-08 09:32:32,939 - INFO - Processing 16 chunks from how-to-use-openai-o1-reasoning-models-in-applications.md
+2025-03-08 09:32:32,939 - INFO - Found 16 informative chunks
+2025-03-08 09:32:32,939 - INFO - Processing 9 chunks from introducing-extract-open-beta.md
+2025-03-08 09:32:32,939 - INFO - Found 9 informative chunks
+2025-03-08 09:32:32,946 - INFO - Processing 7 chunks from introducing-fire-engine-for-firecrawl.md
+2025-03-08 09:32:32,946 - INFO - Found 7 informative chunks
+2025-03-08 09:32:32,947 - INFO - Processing 4 chunks from launch-week-i-day-1-introducing-teams.md
+2025-03-08 09:32:32,947 - INFO - Found 4 informative chunks
+2025-03-08 09:32:32,947 - INFO - Processing 4 chunks from launch-week-i-day-2-doubled-rate-limits.md
+2025-03-08 09:32:32,947 - INFO - Found 4 informative chunks
+2025-03-08 09:32:32,949 - INFO - Processing 4 chunks from launch-week-i-day-3-introducing-map-endpoint.md
+2025-03-08 09:32:32,949 - INFO - Found 4 informative chunks
+2025-03-08 09:32:32,949 - INFO - Processing 4 chunks from launch-week-i-day-4-introducing-firecrawl-v1.md
+2025-03-08 09:32:32,949 - INFO - Found 4 informative chunks
+2025-03-08 09:32:32,949 - INFO - Processing 4 chunks from launch-week-i-day-5-real-time-crawling-websockets.md
+2025-03-08 09:32:32,949 - INFO - Found 4 informative chunks
+2025-03-08 09:32:32,952 - INFO - Processing 7 chunks from launch-week-i-day-6-llm-extract.md
+2025-03-08 09:32:32,952 - INFO - Found 7 informative chunks
+2025-03-08 09:32:32,952 - INFO - Processing 8 chunks from launch-week-i-day-7-webhooks.md
+2025-03-08 09:32:32,952 - INFO - Found 8 informative chunks
+2025-03-08 09:32:32,954 - INFO - Processing 4 chunks from launch-week-ii-day-1-introducing-batch-scrape-endpoint.md
+2025-03-08 09:32:32,954 - INFO - Found 4 informative chunks
+2025-03-08 09:32:32,954 - INFO - Processing 4 chunks from launch-week-ii-day-2-introducing-location-language-settings.md
+2025-03-08 09:32:32,954 - INFO - Found 4 informative chunks
+2025-03-08 09:32:32,957 - INFO - Processing 4 chunks from launch-week-ii-day-3-introducing-credit-packs.md
+2025-03-08 09:32:32,957 - INFO - Found 4 informative chunks
+2025-03-08 09:32:32,957 - INFO - Processing 7 chunks from launch-week-ii-day-4-advanced-iframe-scraping.md
+2025-03-08 09:32:32,957 - INFO - Found 7 informative chunks
+2025-03-08 09:32:32,957 - INFO - Processing 4 chunks from launch-week-ii-day-5-introducing-two-new-actions.md
+2025-03-08 09:32:32,957 - INFO - Found 4 informative chunks
+2025-03-08 09:32:32,957 - INFO - Processing 6 chunks from launch-week-ii-day-6-introducing-mobile-scraping.md
+2025-03-08 09:32:32,957 - INFO - Found 6 informative chunks
+2025-03-08 09:32:32,961 - INFO - Processing 5 chunks from launch-week-ii-day-7-introducing-faster-markdown-parsing.md
+2025-03-08 09:32:32,962 - INFO - Found 5 informative chunks
+2025-03-08 09:32:32,963 - INFO - Processing 11 chunks from launch-week-ii-recap.md
+2025-03-08 09:32:32,963 - INFO - Found 11 informative chunks
+2025-03-08 09:32:32,963 - INFO - Processing 10 chunks from lead-gen-business-insights-make-firecrawl.md
+2025-03-08 09:32:32,963 - INFO - Found 10 informative chunks
+2025-03-08 09:32:32,966 - INFO - Processing 43 chunks from llm-api-engine-dynamic-api-generation-explainer.md
+2025-03-08 09:32:32,966 - INFO - Found 43 informative chunks
+2025-03-08 09:32:32,971 - INFO - Processing 27 chunks from mastering-firecrawl-extract-endpoint.md
+2025-03-08 09:32:32,971 - INFO - Found 27 informative chunks
+2025-03-08 09:32:32,976 - INFO - Processing 12 chunks from mastering-firecrawl-scrape-endpoint.md
+2025-03-08 09:32:32,976 - INFO - Found 12 informative chunks
+2025-03-08 09:32:32,983 - INFO - Processing 24 chunks from mastering-the-crawl-endpoint-in-firecrawl.md
+2025-03-08 09:32:32,983 - INFO - Found 24 informative chunks
+2025-03-08 09:32:32,986 - INFO - Processing 19 chunks from open-deep-research-explainer.md
+2025-03-08 09:32:32,986 - INFO - Found 19 informative chunks
+2025-03-08 09:32:32,990 - INFO - Processing 8 chunks from openai-swarm-agent-tutorial.md
+2025-03-08 09:32:32,990 - INFO - Found 8 informative chunks
+2025-03-08 09:32:32,990 - INFO - Processing 35 chunks from python-web-scraping-projects.md
+2025-03-08 09:32:32,990 - INFO - Found 35 informative chunks
+2025-03-08 09:32:33,000 - INFO - Processing 16 chunks from sales-lead-extractor-python-ai.md
+2025-03-08 09:32:33,000 - INFO - Found 16 informative chunks
+2025-03-08 09:32:33,000 - INFO - Processing 14 chunks from scrape-analyze-airbnb-data-with-e2b.md
+2025-03-08 09:32:33,000 - INFO - Found 14 informative chunks
+2025-03-08 09:32:33,005 - INFO - Processing 17 chunks from scrape-job-boards-firecrawl-openai.md
+2025-03-08 09:32:33,005 - INFO - Found 17 informative chunks
+2025-03-08 09:32:33,006 - INFO - Processing 28 chunks from trend-finder-typescript.md
+2025-03-08 09:32:33,006 - INFO - Found 28 informative chunks
+2025-03-08 09:32:33,014 - INFO - Processing 8 chunks from using-prompt-caching-with-anthropic.md
+2025-03-08 09:32:33,014 - INFO - Found 8 informative chunks
+2025-03-08 09:32:33,016 - INFO - Processing 11 chunks from using-structured-output-and-json-strict-mode-openai.md
+2025-03-08 09:32:33,017 - INFO - Found 11 informative chunks
+2025-03-08 09:32:33,017 - INFO - Processing 7 chunks from why-companies-need-a-data-strategy-for-generative-ai.md
+2025-03-08 09:32:33,017 - INFO - Found 7 informative chunks
+2025-03-08 09:32:33,018 - INFO - Processing 6 chunks from your-ip-has-been-temporarily-blocked-or-banned.md
+2025-03-08 09:32:33,019 - INFO - Found 6 informative chunks
+2025-03-08 09:32:33,019 - INFO - Processing 42 chunks from advanced-scraping-guide.md
+2025-03-08 09:32:33,019 - INFO - Found 42 informative chunks
+2025-03-08 09:32:33,023 - INFO - Processing 4 chunks from api-reference-endpoint-batch-scrape-get-errors.md
+2025-03-08 09:32:33,024 - INFO - Found 4 informative chunks
+2025-03-08 09:32:33,024 - INFO - Processing 4 chunks from api-reference-endpoint-batch-scrape-get.md
+2025-03-08 09:32:33,024 - INFO - Found 4 informative chunks
+2025-03-08 09:32:33,024 - INFO - Processing 4 chunks from api-reference-endpoint-batch-scrape.md
+2025-03-08 09:32:33,024 - INFO - Found 4 informative chunks
+2025-03-08 09:32:33,024 - INFO - Processing 4 chunks from api-reference-endpoint-crawl-delete.md
+2025-03-08 09:32:33,028 - INFO - Found 4 informative chunks
+2025-03-08 09:32:33,029 - INFO - Processing 4 chunks from api-reference-endpoint-crawl-get-errors.md
+2025-03-08 09:32:33,029 - INFO - Found 4 informative chunks
+2025-03-08 09:32:33,029 - INFO - Processing 4 chunks from api-reference-endpoint-crawl-get.md
+2025-03-08 09:32:33,029 - INFO - Found 4 informative chunks
+2025-03-08 09:32:33,032 - INFO - Processing 4 chunks from api-reference-endpoint-crawl-post.md
+2025-03-08 09:32:33,032 - INFO - Found 4 informative chunks
+2025-03-08 09:32:33,032 - INFO - Processing 3 chunks from api-reference-endpoint-credit-usage.md
+2025-03-08 09:32:33,032 - INFO - Found 3 informative chunks
+2025-03-08 09:32:33,034 - INFO - Processing 4 chunks from api-reference-endpoint-extract-get.md
+2025-03-08 09:32:33,034 - INFO - Found 4 informative chunks
+2025-03-08 09:32:33,034 - INFO - Processing 4 chunks from api-reference-endpoint-extract.md
+2025-03-08 09:32:33,034 - INFO - Found 4 informative chunks
+2025-03-08 09:32:33,034 - INFO - Processing 8 chunks from api-reference-endpoint-llmstxt-get.md
+2025-03-08 09:32:33,034 - INFO - Found 8 informative chunks
+2025-03-08 09:32:33,039 - INFO - Processing 7 chunks from api-reference-endpoint-llmstxt.md
+2025-03-08 09:32:33,039 - INFO - Found 7 informative chunks
+2025-03-08 09:32:33,039 - INFO - Processing 4 chunks from api-reference-endpoint-map.md
+2025-03-08 09:32:33,039 - INFO - Found 4 informative chunks
+2025-03-08 09:32:33,039 - INFO - Processing 4 chunks from api-reference-endpoint-scrape.md
+2025-03-08 09:32:33,039 - INFO - Found 4 informative chunks
+2025-03-08 09:32:33,043 - INFO - Processing 4 chunks from api-reference-endpoint-search.md
+2025-03-08 09:32:33,044 - INFO - Found 4 informative chunks
+2025-03-08 09:32:33,044 - INFO - Processing 6 chunks from api-reference-introduction.md
+2025-03-08 09:32:33,044 - INFO - Found 6 informative chunks
+2025-03-08 09:32:33,044 - INFO - Processing 9 chunks from contributing-guide.md
+2025-03-08 09:32:33,044 - INFO - Found 9 informative chunks
+2025-03-08 09:32:33,047 - INFO - Processing 1 chunks from contributing-open-source-or-cloud.md
+2025-03-08 09:32:33,047 - INFO - Found 1 informative chunks
+2025-03-08 09:32:33,047 - INFO - Processing 13 chunks from contributing-self-host.md
+2025-03-08 09:32:33,049 - INFO - Found 13 informative chunks
+2025-03-08 09:32:33,049 - INFO - Processing 10 chunks from features-alpha-llmstxt-npx.md
+2025-03-08 09:32:33,049 - INFO - Found 10 informative chunks
+2025-03-08 09:32:33,051 - INFO - Processing 9 chunks from features-alpha-llmstxt.md
+2025-03-08 09:32:33,051 - INFO - Found 9 informative chunks
+2025-03-08 09:32:33,051 - INFO - Processing 11 chunks from features-batch-scrape.md
+2025-03-08 09:32:33,051 - INFO - Found 11 informative chunks
+2025-03-08 09:32:33,051 - INFO - Processing 11 chunks from features-crawl.md
+2025-03-08 09:32:33,051 - INFO - Found 11 informative chunks
+2025-03-08 09:32:33,055 - INFO - Processing 14 chunks from features-extract.md
+2025-03-08 09:32:33,055 - INFO - Found 14 informative chunks
+2025-03-08 09:32:33,055 - INFO - Processing 5 chunks from features-llm-extract.md
+2025-03-08 09:32:33,055 - INFO - Found 5 informative chunks
+2025-03-08 09:32:33,055 - INFO - Processing 8 chunks from features-map.md
+2025-03-08 09:32:33,055 - INFO - Found 8 informative chunks
+2025-03-08 09:32:33,055 - INFO - Processing 22 chunks from features-scrape.md
+2025-03-08 09:32:33,055 - INFO - Found 22 informative chunks
+2025-03-08 09:32:33,062 - INFO - Processing 11 chunks from features-search.md
+2025-03-08 09:32:33,062 - INFO - Found 11 informative chunks
+2025-03-08 09:32:33,062 - INFO - Processing 5 chunks from integrations-camelai.md
+2025-03-08 09:32:33,062 - INFO - Found 5 informative chunks
+2025-03-08 09:32:33,062 - INFO - Processing 9 chunks from integrations-crewai.md
+2025-03-08 09:32:33,062 - INFO - Found 9 informative chunks
+2025-03-08 09:32:33,066 - INFO - Processing 5 chunks from integrations-dify.md
+2025-03-08 09:32:33,067 - INFO - Found 5 informative chunks
+2025-03-08 09:32:33,067 - INFO - Processing 4 chunks from integrations-flowise.md
+2025-03-08 09:32:33,067 - INFO - Found 4 informative chunks
+2025-03-08 09:32:33,067 - INFO - Processing 6 chunks from integrations-langchain.md
+2025-03-08 09:32:33,067 - INFO - Found 6 informative chunks
+2025-03-08 09:32:33,067 - INFO - Processing 3 chunks from integrations-langflow.md
+2025-03-08 09:32:33,067 - INFO - Found 3 informative chunks
+2025-03-08 09:32:33,067 - INFO - Processing 4 chunks from integrations-llamaindex.md
+2025-03-08 09:32:33,067 - INFO - Found 4 informative chunks
+2025-03-08 09:32:33,070 - INFO - Processing 8 chunks from integrations-sourcesyncai.md
+2025-03-08 09:32:33,070 - INFO - Found 8 informative chunks
+2025-03-08 09:32:33,070 - INFO - Processing 1 chunks from integrations.md
+2025-03-08 09:32:33,070 - INFO - Found 1 informative chunks
+2025-03-08 09:32:33,073 - INFO - Processing 21 chunks from introduction.md
+2025-03-08 09:32:33,074 - INFO - Found 21 informative chunks
+2025-03-08 09:32:33,074 - INFO - Processing 25 chunks from launch-week.md
+2025-03-08 09:32:33,074 - INFO - Found 25 informative chunks
+2025-03-08 09:32:33,078 - INFO - Processing 5 chunks from rate-limits.md
+2025-03-08 09:32:33,078 - INFO - Found 5 informative chunks
+2025-03-08 09:32:33,078 - INFO - Processing 8 chunks from sdks-go.md
+2025-03-08 09:32:33,078 - INFO - Found 8 informative chunks
+2025-03-08 09:32:33,078 - INFO - Processing 11 chunks from sdks-node.md
+2025-03-08 09:32:33,078 - INFO - Found 11 informative chunks
+2025-03-08 09:32:33,078 - INFO - Processing 3 chunks from sdks-overview.md
+2025-03-08 09:32:33,078 - INFO - Found 3 informative chunks
+2025-03-08 09:32:33,078 - INFO - Processing 11 chunks from sdks-python.md
+2025-03-08 09:32:33,078 - INFO - Found 11 informative chunks
+2025-03-08 09:32:33,083 - INFO - Processing 9 chunks from sdks-rust.md
+2025-03-08 09:32:33,083 - INFO - Found 9 informative chunks
+2025-03-08 09:32:33,084 - INFO - Processing 29 chunks from v0-advanced-scraping-guide.md
+2025-03-08 09:32:33,086 - INFO - Found 29 informative chunks
+2025-03-08 09:32:33,086 - INFO - Processing 4 chunks from v0-api-reference-endpoint-crawl-cancel.md
+2025-03-08 09:32:33,086 - INFO - Found 4 informative chunks
+2025-03-08 09:32:33,086 - INFO - Processing 4 chunks from v0-api-reference-endpoint-crawl.md
+2025-03-08 09:32:33,086 - INFO - Found 4 informative chunks
+2025-03-08 09:32:33,091 - INFO - Processing 4 chunks from v0-api-reference-endpoint-scrape.md
+2025-03-08 09:32:33,092 - INFO - Found 4 informative chunks
+2025-03-08 09:32:33,092 - INFO - Processing 4 chunks from v0-api-reference-endpoint-search.md
+2025-03-08 09:32:33,094 - INFO - Found 4 informative chunks
+2025-03-08 09:32:33,095 - INFO - Processing 4 chunks from v0-api-reference-endpoint-status.md
+2025-03-08 09:32:33,095 - INFO - Found 4 informative chunks
+2025-03-08 09:32:33,095 - INFO - Processing 5 chunks from v0-api-reference-introduction.md
+2025-03-08 09:32:33,095 - INFO - Found 5 informative chunks
+2025-03-08 09:32:33,095 - INFO - Processing 7 chunks from v0-features-crawl.md
+2025-03-08 09:32:33,095 - INFO - Found 7 informative chunks
+2025-03-08 09:32:33,099 - INFO - Processing 7 chunks from v0-features-extract.md
+2025-03-08 09:32:33,099 - INFO - Found 7 informative chunks
+2025-03-08 09:32:33,099 - INFO - Processing 6 chunks from v0-features-scrape.md
+2025-03-08 09:32:33,101 - INFO - Found 6 informative chunks
+2025-03-08 09:32:33,101 - INFO - Processing 13 chunks from v0-introduction.md
+2025-03-08 09:32:33,102 - INFO - Found 13 informative chunks
+2025-03-08 09:32:33,102 - INFO - Processing 10 chunks from v0-sdks-go.md
+2025-03-08 09:32:33,102 - INFO - Found 10 informative chunks
+2025-03-08 09:32:33,102 - INFO - Processing 9 chunks from v0-sdks-node.md
+2025-03-08 09:32:33,102 - INFO - Found 9 informative chunks
+2025-03-08 09:32:33,105 - INFO - Processing 9 chunks from v0-sdks-python.md
+2025-03-08 09:32:33,105 - INFO - Found 9 informative chunks
+2025-03-08 09:32:33,105 - INFO - Processing 10 chunks from v0-sdks-rust.md
+2025-03-08 09:32:33,105 - INFO - Found 10 informative chunks
+2025-03-08 09:32:33,105 - INFO - Processing 18 chunks from v1-welcome.md
+2025-03-08 09:32:33,105 - INFO - Found 18 informative chunks
+2025-03-08 09:32:33,133 - INFO - Successfully created dataset with 1449 chunks
+2025-03-08 09:33:02,511 - INFO - Found 137 markdown files to process
+2025-03-08 09:33:02,511 - INFO - Processing 3 chunks from .md
+2025-03-08 09:33:02,526 - INFO - Found 3 informative chunks
+2025-03-08 09:33:02,532 - INFO - Processing 21 chunks from ai-resume-parser-job-matcher-python.md
+2025-03-08 09:33:02,533 - INFO - Found 21 informative chunks
+2025-03-08 09:33:02,533 - INFO - Processing 13 chunks from an-adventure-in-scaling.md
+2025-03-08 09:33:02,533 - INFO - Found 13 informative chunks
+2025-03-08 09:33:02,542 - INFO - Processing 25 chunks from automated-competitor-price-scraping.md
+2025-03-08 09:33:02,542 - INFO - Found 25 informative chunks
+2025-03-08 09:33:02,543 - INFO - Processing 28 chunks from automated-data-collection-guide.md
+2025-03-08 09:33:02,543 - INFO - Found 28 informative chunks
+2025-03-08 09:33:02,550 - INFO - Processing 18 chunks from automated-price-tracking-tutorial-python.md
+2025-03-08 09:33:02,554 - INFO - Found 18 informative chunks
+2025-03-08 09:33:02,558 - INFO - Processing 30 chunks from automated-web-scraping-free-2025.md
+2025-03-08 09:33:02,558 - INFO - Found 30 informative chunks
+2025-03-08 09:33:02,562 - INFO - Processing 29 chunks from beautifulsoup4-vs-scrapy-comparison.md
+2025-03-08 09:33:02,562 - INFO - Found 29 informative chunks
+2025-03-08 09:33:02,562 - INFO - Processing 3 chunks from Build-a-Full-Stack-AI-Web-App-in-12-Minutes.md
+2025-03-08 09:33:02,562 - INFO - Found 3 informative chunks
+2025-03-08 09:33:02,562 - INFO - Processing 11 chunks from building-knowledge-graphs-from-web-data-camelai-firecrawl.md
+2025-03-08 09:33:02,566 - INFO - Found 11 informative chunks
+2025-03-08 09:33:02,566 - INFO - Processing 3 chunks from category-customer-stories.md
+2025-03-08 09:33:02,566 - INFO - Found 3 informative chunks
+2025-03-08 09:33:02,566 - INFO - Processing 3 chunks from category-product.md
+2025-03-08 09:33:02,566 - INFO - Found 3 informative chunks
+2025-03-08 09:33:02,569 - INFO - Processing 2 chunks from category-tips-and-resources.md
+2025-03-08 09:33:02,569 - INFO - Found 2 informative chunks
+2025-03-08 09:33:02,569 - INFO - Processing 3 chunks from category-tutorials.md
+2025-03-08 09:33:02,569 - INFO - Found 3 informative chunks
+2025-03-08 09:33:02,569 - INFO - Processing 9 chunks from chat-with-website.md
+2025-03-08 09:33:02,569 - INFO - Found 9 informative chunks
+2025-03-08 09:33:02,573 - INFO - Processing 5 chunks from cloudflare-error-1015-how-to-solve-it.md
+2025-03-08 09:33:02,574 - INFO - Found 5 informative chunks
+2025-03-08 09:33:02,574 - INFO - Processing 13 chunks from complete-guide-to-curl-authentication-firecrawl-api.md
+2025-03-08 09:33:02,574 - INFO - Found 13 informative chunks
+2025-03-08 09:33:02,579 - INFO - Processing 21 chunks from complete-guide-to-data-enrichment.md
+2025-03-08 09:33:02,579 - INFO - Found 21 informative chunks
+2025-03-08 09:33:02,582 - INFO - Processing 9 chunks from contradiction-agent.md
+2025-03-08 09:33:02,582 - INFO - Found 9 informative chunks
+2025-03-08 09:33:02,582 - INFO - Processing 8 chunks from crawlbench-llm-extraction.md
+2025-03-08 09:33:02,582 - INFO - Found 8 informative chunks
+2025-03-08 09:33:02,582 - INFO - Processing 19 chunks from crunchbase-scraping-with-firecrawl-claude.md
+2025-03-08 09:33:02,582 - INFO - Found 19 informative chunks
+2025-03-08 09:33:02,590 - INFO - Processing 19 chunks from custom-instruction-datasets-llm-fine-tuning.md
+2025-03-08 09:33:02,594 - INFO - Found 19 informative chunks
+2025-03-08 09:33:02,595 - INFO - Processing 9 chunks from data-extraction-using-llms.md
+2025-03-08 09:33:02,595 - INFO - Found 9 informative chunks
+2025-03-08 09:33:02,600 - INFO - Processing 24 chunks from deepseek-rag-documentation-assistant.md
+2025-03-08 09:33:02,600 - INFO - Found 24 informative chunks
+2025-03-08 09:33:02,600 - INFO - Processing 48 chunks from deploy-web-scrapers.md
+2025-03-08 09:33:02,606 - INFO - Found 48 informative chunks
+2025-03-08 09:33:02,607 - INFO - Processing 14 chunks from fine-tuning-deepseek.md
+2025-03-08 09:33:02,610 - INFO - Found 14 informative chunks
+2025-03-08 09:33:02,610 - INFO - Processing 8 chunks from firecrawl-july-2024-updates.md
+2025-03-08 09:33:02,610 - INFO - Found 8 informative chunks
+2025-03-08 09:33:02,613 - INFO - Processing 8 chunks from firecrawl-june-2024-updates.md
+2025-03-08 09:33:02,613 - INFO - Found 8 informative chunks
+2025-03-08 09:33:02,613 - INFO - Processing 13 chunks from firecrawl-launch-week-1-recap.md
+2025-03-08 09:33:02,613 - INFO - Found 13 informative chunks
+2025-03-08 09:33:02,615 - INFO - Processing 14 chunks from getting-started-with-predicted-outputs-openai.md
+2025-03-08 09:33:02,616 - INFO - Found 14 informative chunks
+2025-03-08 09:33:02,616 - INFO - Processing 20 chunks from grok-2-setup-and-web-crawler-example.md
+2025-03-08 09:33:02,616 - INFO - Found 20 informative chunks
+2025-03-08 09:33:02,618 - INFO - Processing 3 chunks from how-athena-intelligence-empowers-analysts-with-firecrawl.md
+2025-03-08 09:33:02,618 - INFO - Found 3 informative chunks
+2025-03-08 09:33:02,619 - INFO - Processing 3 chunks from how-cargo-empowers-gtm-teams-with-firecrawl.md
+2025-03-08 09:33:02,620 - INFO - Found 3 informative chunks
+2025-03-08 09:33:02,620 - INFO - Processing 3 chunks from how-gamma-supercharges-onboarding-with-firecrawl.md
+2025-03-08 09:33:02,620 - INFO - Found 3 informative chunks
+2025-03-08 09:33:02,620 - INFO - Processing 3 chunks from how-replit-uses-firecrawl-to-power-ai-agents.md
+2025-03-08 09:33:02,620 - INFO - Found 3 informative chunks
+2025-03-08 09:33:02,620 - INFO - Processing 3 chunks from how-stack-ai-uses-firecrawl-to-power-ai-agents.md
+2025-03-08 09:33:02,620 - INFO - Found 3 informative chunks
+2025-03-08 09:33:02,620 - INFO - Processing 10 chunks from How-to-Create-an-llms-txt-File-for-Any-Website.md
+2025-03-08 09:33:02,620 - INFO - Found 10 informative chunks
+2025-03-08 09:33:02,624 - INFO - Processing 9 chunks from how-to-easily-install-requests-with-pip-and-python.md
+2025-03-08 09:33:02,624 - INFO - Found 9 informative chunks
+2025-03-08 09:33:02,627 - INFO - Processing 21 chunks from how-to-generate-sitemaps-using-firecrawl-map-endpoint.md
+2025-03-08 09:33:02,627 - INFO - Found 21 informative chunks
+2025-03-08 09:33:02,629 - INFO - Processing 9 chunks from how-to-quickly-install-beautifulsoup-with-python.md
+2025-03-08 09:33:02,629 - INFO - Found 9 informative chunks
+2025-03-08 09:33:02,629 - INFO - Processing 16 chunks from How-to-Talk-with-Any-Website-Using-OpenAIs-Realtime-API-and-Firecrawl.md
+2025-03-08 09:33:02,632 - INFO - Found 16 informative chunks
+2025-03-08 09:33:02,632 - INFO - Processing 16 chunks from how-to-use-openai-o1-reasoning-models-in-applications.md
+2025-03-08 09:33:02,632 - INFO - Found 16 informative chunks
+2025-03-08 09:33:02,634 - INFO - Processing 9 chunks from introducing-extract-open-beta.md
+2025-03-08 09:33:02,634 - INFO - Found 9 informative chunks
+2025-03-08 09:33:02,634 - INFO - Processing 7 chunks from introducing-fire-engine-for-firecrawl.md
+2025-03-08 09:33:02,634 - INFO - Found 7 informative chunks
+2025-03-08 09:33:02,634 - INFO - Processing 4 chunks from launch-week-i-day-1-introducing-teams.md
+2025-03-08 09:33:02,634 - INFO - Found 4 informative chunks
+2025-03-08 09:33:02,634 - INFO - Processing 4 chunks from launch-week-i-day-2-doubled-rate-limits.md
+2025-03-08 09:33:02,634 - INFO - Found 4 informative chunks
+2025-03-08 09:33:02,634 - INFO - Processing 4 chunks from launch-week-i-day-3-introducing-map-endpoint.md
+2025-03-08 09:33:02,634 - INFO - Found 4 informative chunks
+2025-03-08 09:33:02,640 - INFO - Processing 4 chunks from launch-week-i-day-4-introducing-firecrawl-v1.md
+2025-03-08 09:33:02,640 - INFO - Found 4 informative chunks
+2025-03-08 09:33:02,640 - INFO - Processing 4 chunks from launch-week-i-day-5-real-time-crawling-websockets.md
+2025-03-08 09:33:02,640 - INFO - Found 4 informative chunks
+2025-03-08 09:33:02,640 - INFO - Processing 7 chunks from launch-week-i-day-6-llm-extract.md
+2025-03-08 09:33:02,640 - INFO - Found 7 informative chunks
+2025-03-08 09:33:02,640 - INFO - Processing 8 chunks from launch-week-i-day-7-webhooks.md
+2025-03-08 09:33:02,640 - INFO - Found 8 informative chunks
+2025-03-08 09:33:02,640 - INFO - Processing 4 chunks from launch-week-ii-day-1-introducing-batch-scrape-endpoint.md
+2025-03-08 09:33:02,640 - INFO - Found 4 informative chunks
+2025-03-08 09:33:02,645 - INFO - Processing 4 chunks from launch-week-ii-day-2-introducing-location-language-settings.md
+2025-03-08 09:33:02,645 - INFO - Found 4 informative chunks
+2025-03-08 09:33:02,646 - INFO - Processing 4 chunks from launch-week-ii-day-3-introducing-credit-packs.md
+2025-03-08 09:33:02,646 - INFO - Found 4 informative chunks
+2025-03-08 09:33:02,646 - INFO - Processing 7 chunks from launch-week-ii-day-4-advanced-iframe-scraping.md
+2025-03-08 09:33:02,646 - INFO - Found 7 informative chunks
+2025-03-08 09:33:02,646 - INFO - Processing 4 chunks from launch-week-ii-day-5-introducing-two-new-actions.md
+2025-03-08 09:33:02,649 - INFO - Found 4 informative chunks
+2025-03-08 09:33:02,649 - INFO - Processing 6 chunks from launch-week-ii-day-6-introducing-mobile-scraping.md
+2025-03-08 09:33:02,649 - INFO - Found 6 informative chunks
+2025-03-08 09:33:02,650 - INFO - Processing 5 chunks from launch-week-ii-day-7-introducing-faster-markdown-parsing.md
+2025-03-08 09:33:02,650 - INFO - Found 5 informative chunks
+2025-03-08 09:33:02,650 - INFO - Processing 11 chunks from launch-week-ii-recap.md
+2025-03-08 09:33:02,650 - INFO - Found 11 informative chunks
+2025-03-08 09:33:02,650 - INFO - Processing 10 chunks from lead-gen-business-insights-make-firecrawl.md
+2025-03-08 09:33:02,650 - INFO - Found 10 informative chunks
+2025-03-08 09:33:02,650 - INFO - Processing 43 chunks from llm-api-engine-dynamic-api-generation-explainer.md
+2025-03-08 09:33:02,658 - INFO - Found 43 informative chunks
+2025-03-08 09:33:02,662 - INFO - Processing 27 chunks from mastering-firecrawl-extract-endpoint.md
+2025-03-08 09:33:02,663 - INFO - Found 27 informative chunks
+2025-03-08 09:33:02,666 - INFO - Processing 12 chunks from mastering-firecrawl-scrape-endpoint.md
+2025-03-08 09:33:02,666 - INFO - Found 12 informative chunks
+2025-03-08 09:33:02,666 - INFO - Processing 24 chunks from mastering-the-crawl-endpoint-in-firecrawl.md
+2025-03-08 09:33:02,666 - INFO - Found 24 informative chunks
+2025-03-08 09:33:02,677 - INFO - Processing 19 chunks from open-deep-research-explainer.md
+2025-03-08 09:33:02,678 - INFO - Found 19 informative chunks
+2025-03-08 09:33:02,678 - INFO - Processing 8 chunks from openai-swarm-agent-tutorial.md
+2025-03-08 09:33:02,678 - INFO - Found 8 informative chunks
+2025-03-08 09:33:02,683 - INFO - Processing 35 chunks from python-web-scraping-projects.md
+2025-03-08 09:33:02,686 - INFO - Found 35 informative chunks
+2025-03-08 09:33:02,686 - INFO - Processing 16 chunks from sales-lead-extractor-python-ai.md
+2025-03-08 09:33:02,686 - INFO - Found 16 informative chunks
+2025-03-08 09:33:02,691 - INFO - Processing 14 chunks from scrape-analyze-airbnb-data-with-e2b.md
+2025-03-08 09:33:02,691 - INFO - Found 14 informative chunks
+2025-03-08 09:33:02,694 - INFO - Processing 17 chunks from scrape-job-boards-firecrawl-openai.md
+2025-03-08 09:33:02,694 - INFO - Found 17 informative chunks
+2025-03-08 09:33:02,699 - INFO - Processing 28 chunks from trend-finder-typescript.md
+2025-03-08 09:33:02,700 - INFO - Found 28 informative chunks
+2025-03-08 09:33:02,700 - INFO - Processing 8 chunks from using-prompt-caching-with-anthropic.md
+2025-03-08 09:33:02,700 - INFO - Found 8 informative chunks
+2025-03-08 09:33:02,700 - INFO - Processing 11 chunks from using-structured-output-and-json-strict-mode-openai.md
+2025-03-08 09:33:02,700 - INFO - Found 11 informative chunks
+2025-03-08 09:33:02,700 - INFO - Processing 7 chunks from why-companies-need-a-data-strategy-for-generative-ai.md
+2025-03-08 09:33:02,700 - INFO - Found 7 informative chunks
+2025-03-08 09:33:02,700 - INFO - Processing 6 chunks from your-ip-has-been-temporarily-blocked-or-banned.md
+2025-03-08 09:33:02,700 - INFO - Found 6 informative chunks
+2025-03-08 09:33:02,707 - INFO - Processing 42 chunks from advanced-scraping-guide.md
+2025-03-08 09:33:02,707 - INFO - Found 42 informative chunks
+2025-03-08 09:33:02,711 - INFO - Processing 4 chunks from api-reference-endpoint-batch-scrape-get-errors.md
+2025-03-08 09:33:02,711 - INFO - Found 4 informative chunks
+2025-03-08 09:33:02,711 - INFO - Processing 4 chunks from api-reference-endpoint-batch-scrape-get.md
+2025-03-08 09:33:02,711 - INFO - Found 4 informative chunks
+2025-03-08 09:33:02,713 - INFO - Processing 4 chunks from api-reference-endpoint-batch-scrape.md
+2025-03-08 09:33:02,714 - INFO - Found 4 informative chunks
+2025-03-08 09:33:02,714 - INFO - Processing 4 chunks from api-reference-endpoint-crawl-delete.md
+2025-03-08 09:33:02,714 - INFO - Found 4 informative chunks
+2025-03-08 09:33:02,715 - INFO - Processing 4 chunks from api-reference-endpoint-crawl-get-errors.md
+2025-03-08 09:33:02,715 - INFO - Found 4 informative chunks
+2025-03-08 09:33:02,715 - INFO - Processing 4 chunks from api-reference-endpoint-crawl-get.md
+2025-03-08 09:33:02,715 - INFO - Found 4 informative chunks
+2025-03-08 09:33:02,718 - INFO - Processing 4 chunks from api-reference-endpoint-crawl-post.md
+2025-03-08 09:33:02,718 - INFO - Found 4 informative chunks
+2025-03-08 09:33:02,718 - INFO - Processing 3 chunks from api-reference-endpoint-credit-usage.md
+2025-03-08 09:33:02,718 - INFO - Found 3 informative chunks
+2025-03-08 09:33:02,718 - INFO - Processing 4 chunks from api-reference-endpoint-extract-get.md
+2025-03-08 09:33:02,718 - INFO - Found 4 informative chunks
+2025-03-08 09:33:02,718 - INFO - Processing 4 chunks from api-reference-endpoint-extract.md
+2025-03-08 09:33:02,718 - INFO - Found 4 informative chunks
+2025-03-08 09:33:02,724 - INFO - Processing 8 chunks from api-reference-endpoint-llmstxt-get.md
+2025-03-08 09:33:02,724 - INFO - Found 8 informative chunks
+2025-03-08 09:33:02,724 - INFO - Processing 7 chunks from api-reference-endpoint-llmstxt.md
+2025-03-08 09:33:02,724 - INFO - Found 7 informative chunks
+2025-03-08 09:33:02,724 - INFO - Processing 4 chunks from api-reference-endpoint-map.md
+2025-03-08 09:33:02,727 - INFO - Found 4 informative chunks
+2025-03-08 09:33:02,729 - INFO - Processing 4 chunks from api-reference-endpoint-scrape.md
+2025-03-08 09:33:02,729 - INFO - Found 4 informative chunks
+2025-03-08 09:33:02,730 - INFO - Processing 4 chunks from api-reference-endpoint-search.md
+2025-03-08 09:33:02,730 - INFO - Found 4 informative chunks
+2025-03-08 09:33:02,732 - INFO - Processing 6 chunks from api-reference-introduction.md
+2025-03-08 09:33:02,732 - INFO - Found 6 informative chunks
+2025-03-08 09:33:02,732 - INFO - Processing 9 chunks from contributing-guide.md
+2025-03-08 09:33:02,732 - INFO - Found 9 informative chunks
+2025-03-08 09:33:02,734 - INFO - Processing 1 chunks from contributing-open-source-or-cloud.md
+2025-03-08 09:33:02,734 - INFO - Found 1 informative chunks
+2025-03-08 09:33:02,735 - INFO - Processing 13 chunks from contributing-self-host.md
+2025-03-08 09:33:02,735 - INFO - Found 13 informative chunks
+2025-03-08 09:33:02,735 - INFO - Processing 10 chunks from features-alpha-llmstxt-npx.md
+2025-03-08 09:33:02,735 - INFO - Found 10 informative chunks
+2025-03-08 09:33:02,740 - INFO - Processing 9 chunks from features-alpha-llmstxt.md
+2025-03-08 09:33:02,740 - INFO - Found 9 informative chunks
+2025-03-08 09:33:02,740 - INFO - Processing 11 chunks from features-batch-scrape.md
+2025-03-08 09:33:02,740 - INFO - Found 11 informative chunks
+2025-03-08 09:33:02,740 - INFO - Processing 11 chunks from features-crawl.md
+2025-03-08 09:33:02,743 - INFO - Found 11 informative chunks
+2025-03-08 09:33:02,744 - INFO - Processing 14 chunks from features-extract.md
+2025-03-08 09:33:02,744 - INFO - Found 14 informative chunks
+2025-03-08 09:33:02,744 - INFO - Processing 5 chunks from features-llm-extract.md
+2025-03-08 09:33:02,744 - INFO - Found 5 informative chunks
+2025-03-08 09:33:02,744 - INFO - Processing 8 chunks from features-map.md
+2025-03-08 09:33:02,748 - INFO - Found 8 informative chunks
+2025-03-08 09:33:02,749 - INFO - Processing 22 chunks from features-scrape.md
+2025-03-08 09:33:02,749 - INFO - Found 22 informative chunks
+2025-03-08 09:33:02,751 - INFO - Processing 11 chunks from features-search.md
+2025-03-08 09:33:02,752 - INFO - Found 11 informative chunks
+2025-03-08 09:33:02,752 - INFO - Processing 5 chunks from integrations-camelai.md
+2025-03-08 09:33:02,752 - INFO - Found 5 informative chunks
+2025-03-08 09:33:02,752 - INFO - Processing 9 chunks from integrations-crewai.md
+2025-03-08 09:33:02,752 - INFO - Found 9 informative chunks
+2025-03-08 09:33:02,752 - INFO - Processing 5 chunks from integrations-dify.md
+2025-03-08 09:33:02,752 - INFO - Found 5 informative chunks
+2025-03-08 09:33:02,752 - INFO - Processing 4 chunks from integrations-flowise.md
+2025-03-08 09:33:02,752 - INFO - Found 4 informative chunks
+2025-03-08 09:33:02,756 - INFO - Processing 6 chunks from integrations-langchain.md
+2025-03-08 09:33:02,756 - INFO - Found 6 informative chunks
+2025-03-08 09:33:02,757 - INFO - Processing 3 chunks from integrations-langflow.md
+2025-03-08 09:33:02,757 - INFO - Found 3 informative chunks
+2025-03-08 09:33:02,757 - INFO - Processing 4 chunks from integrations-llamaindex.md
+2025-03-08 09:33:02,757 - INFO - Found 4 informative chunks
+2025-03-08 09:33:02,757 - INFO - Processing 8 chunks from integrations-sourcesyncai.md
+2025-03-08 09:33:02,759 - INFO - Found 8 informative chunks
+2025-03-08 09:33:02,760 - INFO - Processing 1 chunks from integrations.md
+2025-03-08 09:33:02,760 - INFO - Found 1 informative chunks
+2025-03-08 09:33:02,760 - INFO - Processing 21 chunks from introduction.md
+2025-03-08 09:33:02,760 - INFO - Found 21 informative chunks
+2025-03-08 09:33:02,764 - INFO - Processing 25 chunks from launch-week.md
+2025-03-08 09:33:02,766 - INFO - Found 25 informative chunks
+2025-03-08 09:33:02,766 - INFO - Processing 5 chunks from rate-limits.md
+2025-03-08 09:33:02,766 - INFO - Found 5 informative chunks
+2025-03-08 09:33:02,768 - INFO - Processing 8 chunks from sdks-go.md
+2025-03-08 09:33:02,768 - INFO - Found 8 informative chunks
+2025-03-08 09:33:02,769 - INFO - Processing 11 chunks from sdks-node.md
+2025-03-08 09:33:02,769 - INFO - Found 11 informative chunks
+2025-03-08 09:33:02,769 - INFO - Processing 3 chunks from sdks-overview.md
+2025-03-08 09:33:02,769 - INFO - Found 3 informative chunks
+2025-03-08 09:33:02,769 - INFO - Processing 11 chunks from sdks-python.md
+2025-03-08 09:33:02,769 - INFO - Found 11 informative chunks
+2025-03-08 09:33:02,773 - INFO - Processing 9 chunks from sdks-rust.md
+2025-03-08 09:33:02,773 - INFO - Found 9 informative chunks
+2025-03-08 09:33:02,777 - INFO - Processing 29 chunks from v0-advanced-scraping-guide.md
+2025-03-08 09:33:02,777 - INFO - Found 29 informative chunks
+2025-03-08 09:33:02,777 - INFO - Processing 4 chunks from v0-api-reference-endpoint-crawl-cancel.md
+2025-03-08 09:33:02,777 - INFO - Found 4 informative chunks
+2025-03-08 09:33:02,777 - INFO - Processing 4 chunks from v0-api-reference-endpoint-crawl.md
+2025-03-08 09:33:02,777 - INFO - Found 4 informative chunks
+2025-03-08 09:33:02,781 - INFO - Processing 4 chunks from v0-api-reference-endpoint-scrape.md
+2025-03-08 09:33:02,781 - INFO - Found 4 informative chunks
+2025-03-08 09:33:02,782 - INFO - Processing 4 chunks from v0-api-reference-endpoint-search.md
+2025-03-08 09:33:02,782 - INFO - Found 4 informative chunks
+2025-03-08 09:33:02,782 - INFO - Processing 4 chunks from v0-api-reference-endpoint-status.md
+2025-03-08 09:33:02,782 - INFO - Found 4 informative chunks
+2025-03-08 09:33:02,786 - INFO - Processing 5 chunks from v0-api-reference-introduction.md
+2025-03-08 09:33:02,787 - INFO - Found 5 informative chunks
+2025-03-08 09:33:02,787 - INFO - Processing 7 chunks from v0-features-crawl.md
+2025-03-08 09:33:02,787 - INFO - Found 7 informative chunks
+2025-03-08 09:33:02,787 - INFO - Processing 7 chunks from v0-features-extract.md
+2025-03-08 09:33:02,787 - INFO - Found 7 informative chunks
+2025-03-08 09:33:02,790 - INFO - Processing 6 chunks from v0-features-scrape.md
+2025-03-08 09:33:02,790 - INFO - Found 6 informative chunks
+2025-03-08 09:33:02,790 - INFO - Processing 13 chunks from v0-introduction.md
+2025-03-08 09:33:02,790 - INFO - Found 13 informative chunks
+2025-03-08 09:33:02,790 - INFO - Processing 10 chunks from v0-sdks-go.md
+2025-03-08 09:33:02,793 - INFO - Found 10 informative chunks
+2025-03-08 09:33:02,793 - INFO - Processing 9 chunks from v0-sdks-node.md
+2025-03-08 09:33:02,793 - INFO - Found 9 informative chunks
+2025-03-08 09:33:02,793 - INFO - Processing 9 chunks from v0-sdks-python.md
+2025-03-08 09:33:02,793 - INFO - Found 9 informative chunks
+2025-03-08 09:33:02,797 - INFO - Processing 10 chunks from v0-sdks-rust.md
+2025-03-08 09:33:02,797 - INFO - Found 10 informative chunks
+2025-03-08 09:33:02,798 - INFO - Processing 18 chunks from v1-welcome.md
+2025-03-08 09:33:02,798 - INFO - Found 18 informative chunks
+2025-03-08 09:33:02,823 - INFO - Successfully created dataset with 1449 chunks
+2025-03-08 09:34:13,373 - INFO - Found 137 markdown files to process
+2025-03-08 09:34:13,388 - INFO - Processing 3 chunks from .md
+2025-03-08 09:34:13,388 - INFO - Found 3 informative chunks
+2025-03-08 09:34:13,388 - INFO - Processing 21 chunks from ai-resume-parser-job-matcher-python.md
+2025-03-08 09:34:13,388 - INFO - Found 21 informative chunks
+2025-03-08 09:34:13,401 - INFO - Processing 13 chunks from an-adventure-in-scaling.md
+2025-03-08 09:34:13,401 - INFO - Found 13 informative chunks
+2025-03-08 09:34:13,408 - INFO - Processing 25 chunks from automated-competitor-price-scraping.md
+2025-03-08 09:34:13,409 - INFO - Found 25 informative chunks
+2025-03-08 09:34:13,409 - INFO - Processing 28 chunks from automated-data-collection-guide.md
+2025-03-08 09:34:13,409 - INFO - Found 28 informative chunks
+2025-03-08 09:34:13,416 - INFO - Processing 18 chunks from automated-price-tracking-tutorial-python.md
+2025-03-08 09:34:13,422 - INFO - Found 18 informative chunks
+2025-03-08 09:34:13,425 - INFO - Processing 30 chunks from automated-web-scraping-free-2025.md
+2025-03-08 09:34:13,429 - INFO - Found 30 informative chunks
+2025-03-08 09:34:13,431 - INFO - Processing 29 chunks from beautifulsoup4-vs-scrapy-comparison.md
+2025-03-08 09:34:13,431 - INFO - Found 29 informative chunks
+2025-03-08 09:34:13,431 - INFO - Processing 3 chunks from Build-a-Full-Stack-AI-Web-App-in-12-Minutes.md
+2025-03-08 09:34:13,431 - INFO - Found 3 informative chunks
+2025-03-08 09:34:13,436 - INFO - Processing 11 chunks from building-knowledge-graphs-from-web-data-camelai-firecrawl.md
+2025-03-08 09:34:13,436 - INFO - Found 11 informative chunks
+2025-03-08 09:34:13,436 - INFO - Processing 3 chunks from category-customer-stories.md
+2025-03-08 09:34:13,436 - INFO - Found 3 informative chunks
+2025-03-08 09:34:13,436 - INFO - Processing 3 chunks from category-product.md
+2025-03-08 09:34:13,439 - INFO - Found 3 informative chunks
+2025-03-08 09:34:13,439 - INFO - Processing 2 chunks from category-tips-and-resources.md
+2025-03-08 09:34:13,440 - INFO - Found 2 informative chunks
+2025-03-08 09:34:13,440 - INFO - Processing 3 chunks from category-tutorials.md
+2025-03-08 09:34:13,440 - INFO - Found 3 informative chunks
+2025-03-08 09:34:13,440 - INFO - Processing 9 chunks from chat-with-website.md
+2025-03-08 09:34:13,440 - INFO - Found 9 informative chunks
+2025-03-08 09:34:13,440 - INFO - Processing 5 chunks from cloudflare-error-1015-how-to-solve-it.md
+2025-03-08 09:34:13,445 - INFO - Found 5 informative chunks
+2025-03-08 09:34:13,446 - INFO - Processing 13 chunks from complete-guide-to-curl-authentication-firecrawl-api.md
+2025-03-08 09:34:13,446 - INFO - Found 13 informative chunks
+2025-03-08 09:34:13,448 - INFO - Processing 21 chunks from complete-guide-to-data-enrichment.md
+2025-03-08 09:34:13,448 - INFO - Found 21 informative chunks
+2025-03-08 09:34:13,453 - INFO - Processing 9 chunks from contradiction-agent.md
+2025-03-08 09:34:13,453 - INFO - Found 9 informative chunks
+2025-03-08 09:34:13,453 - INFO - Processing 8 chunks from crawlbench-llm-extraction.md
+2025-03-08 09:34:13,453 - INFO - Found 8 informative chunks
+2025-03-08 09:34:13,456 - INFO - Processing 19 chunks from crunchbase-scraping-with-firecrawl-claude.md
+2025-03-08 09:34:13,456 - INFO - Found 19 informative chunks
+2025-03-08 09:34:13,464 - INFO - Processing 19 chunks from custom-instruction-datasets-llm-fine-tuning.md
+2025-03-08 09:34:13,466 - INFO - Found 19 informative chunks
+2025-03-08 09:34:13,467 - INFO - Processing 9 chunks from data-extraction-using-llms.md
+2025-03-08 09:34:13,467 - INFO - Found 9 informative chunks
+2025-03-08 09:34:13,473 - INFO - Processing 24 chunks from deepseek-rag-documentation-assistant.md
+2025-03-08 09:34:13,474 - INFO - Found 24 informative chunks
+2025-03-08 09:34:13,478 - INFO - Processing 48 chunks from deploy-web-scrapers.md
+2025-03-08 09:34:13,481 - INFO - Found 48 informative chunks
+2025-03-08 09:34:13,481 - INFO - Processing 14 chunks from fine-tuning-deepseek.md
+2025-03-08 09:34:13,481 - INFO - Found 14 informative chunks
+2025-03-08 09:34:13,487 - INFO - Processing 8 chunks from firecrawl-july-2024-updates.md
+2025-03-08 09:34:13,488 - INFO - Found 8 informative chunks
+2025-03-08 09:34:13,488 - INFO - Processing 8 chunks from firecrawl-june-2024-updates.md
+2025-03-08 09:34:13,488 - INFO - Found 8 informative chunks
+2025-03-08 09:34:13,490 - INFO - Processing 13 chunks from firecrawl-launch-week-1-recap.md
+2025-03-08 09:34:13,490 - INFO - Found 13 informative chunks
+2025-03-08 09:34:13,490 - INFO - Processing 14 chunks from getting-started-with-predicted-outputs-openai.md
+2025-03-08 09:34:13,490 - INFO - Found 14 informative chunks
+2025-03-08 09:34:13,494 - INFO - Processing 20 chunks from grok-2-setup-and-web-crawler-example.md
+2025-03-08 09:34:13,494 - INFO - Found 20 informative chunks
+2025-03-08 09:34:13,494 - INFO - Processing 3 chunks from how-athena-intelligence-empowers-analysts-with-firecrawl.md
+2025-03-08 09:34:13,494 - INFO - Found 3 informative chunks
+2025-03-08 09:34:13,494 - INFO - Processing 3 chunks from how-cargo-empowers-gtm-teams-with-firecrawl.md
+2025-03-08 09:34:13,494 - INFO - Found 3 informative chunks
+2025-03-08 09:34:13,494 - INFO - Processing 3 chunks from how-gamma-supercharges-onboarding-with-firecrawl.md
+2025-03-08 09:34:13,494 - INFO - Found 3 informative chunks
+2025-03-08 09:34:13,498 - INFO - Processing 3 chunks from how-replit-uses-firecrawl-to-power-ai-agents.md
+2025-03-08 09:34:13,498 - INFO - Found 3 informative chunks
+2025-03-08 09:34:13,498 - INFO - Processing 3 chunks from how-stack-ai-uses-firecrawl-to-power-ai-agents.md
+2025-03-08 09:34:13,498 - INFO - Found 3 informative chunks
+2025-03-08 09:34:13,498 - INFO - Processing 10 chunks from How-to-Create-an-llms-txt-File-for-Any-Website.md
+2025-03-08 09:34:13,498 - INFO - Found 10 informative chunks
+2025-03-08 09:34:13,498 - INFO - Processing 9 chunks from how-to-easily-install-requests-with-pip-and-python.md
+2025-03-08 09:34:13,498 - INFO - Found 9 informative chunks
+2025-03-08 09:34:13,498 - INFO - Processing 21 chunks from how-to-generate-sitemaps-using-firecrawl-map-endpoint.md
+2025-03-08 09:34:13,506 - INFO - Found 21 informative chunks
+2025-03-08 09:34:13,507 - INFO - Processing 9 chunks from how-to-quickly-install-beautifulsoup-with-python.md
+2025-03-08 09:34:13,507 - INFO - Found 9 informative chunks
+2025-03-08 09:34:13,510 - INFO - Processing 16 chunks from How-to-Talk-with-Any-Website-Using-OpenAIs-Realtime-API-and-Firecrawl.md
+2025-03-08 09:34:13,511 - INFO - Found 16 informative chunks
+2025-03-08 09:34:13,512 - INFO - Processing 16 chunks from how-to-use-openai-o1-reasoning-models-in-applications.md
+2025-03-08 09:34:13,512 - INFO - Found 16 informative chunks
+2025-03-08 09:34:13,512 - INFO - Processing 9 chunks from introducing-extract-open-beta.md
+2025-03-08 09:34:13,512 - INFO - Found 9 informative chunks
+2025-03-08 09:34:13,512 - INFO - Processing 7 chunks from introducing-fire-engine-for-firecrawl.md
+2025-03-08 09:34:13,512 - INFO - Found 7 informative chunks
+2025-03-08 09:34:13,515 - INFO - Processing 4 chunks from launch-week-i-day-1-introducing-teams.md
+2025-03-08 09:34:13,515 - INFO - Found 4 informative chunks
+2025-03-08 09:34:13,515 - INFO - Processing 4 chunks from launch-week-i-day-2-doubled-rate-limits.md
+2025-03-08 09:34:13,515 - INFO - Found 4 informative chunks
+2025-03-08 09:34:13,518 - INFO - Processing 4 chunks from launch-week-i-day-3-introducing-map-endpoint.md
+2025-03-08 09:34:13,518 - INFO - Found 4 informative chunks
+2025-03-08 09:34:13,518 - INFO - Processing 4 chunks from launch-week-i-day-4-introducing-firecrawl-v1.md
+2025-03-08 09:34:13,518 - INFO - Found 4 informative chunks
+2025-03-08 09:34:13,518 - INFO - Processing 4 chunks from launch-week-i-day-5-real-time-crawling-websockets.md
+2025-03-08 09:34:13,518 - INFO - Found 4 informative chunks
+2025-03-08 09:34:13,518 - INFO - Processing 7 chunks from launch-week-i-day-6-llm-extract.md
+2025-03-08 09:34:13,518 - INFO - Found 7 informative chunks
+2025-03-08 09:34:13,518 - INFO - Processing 8 chunks from launch-week-i-day-7-webhooks.md
+2025-03-08 09:34:13,518 - INFO - Found 8 informative chunks
+2025-03-08 09:34:13,522 - INFO - Processing 4 chunks from launch-week-ii-day-1-introducing-batch-scrape-endpoint.md
+2025-03-08 09:34:13,523 - INFO - Found 4 informative chunks
+2025-03-08 09:34:13,523 - INFO - Processing 4 chunks from launch-week-ii-day-2-introducing-location-language-settings.md
+2025-03-08 09:34:13,523 - INFO - Found 4 informative chunks
+2025-03-08 09:34:13,526 - INFO - Processing 4 chunks from launch-week-ii-day-3-introducing-credit-packs.md
+2025-03-08 09:34:13,526 - INFO - Found 4 informative chunks
+2025-03-08 09:34:13,526 - INFO - Processing 7 chunks from launch-week-ii-day-4-advanced-iframe-scraping.md
+2025-03-08 09:34:13,526 - INFO - Found 7 informative chunks
+2025-03-08 09:34:13,528 - INFO - Processing 4 chunks from launch-week-ii-day-5-introducing-two-new-actions.md
+2025-03-08 09:34:13,528 - INFO - Found 4 informative chunks
+2025-03-08 09:34:13,528 - INFO - Processing 6 chunks from launch-week-ii-day-6-introducing-mobile-scraping.md
+2025-03-08 09:34:13,528 - INFO - Found 6 informative chunks
+2025-03-08 09:34:13,528 - INFO - Processing 5 chunks from launch-week-ii-day-7-introducing-faster-markdown-parsing.md
+2025-03-08 09:34:13,528 - INFO - Found 5 informative chunks
+2025-03-08 09:34:13,528 - INFO - Processing 11 chunks from launch-week-ii-recap.md
+2025-03-08 09:34:13,532 - INFO - Found 11 informative chunks
+2025-03-08 09:34:13,532 - INFO - Processing 10 chunks from lead-gen-business-insights-make-firecrawl.md
+2025-03-08 09:34:13,534 - INFO - Found 10 informative chunks
+2025-03-08 09:34:13,535 - INFO - Processing 43 chunks from llm-api-engine-dynamic-api-generation-explainer.md
+2025-03-08 09:34:13,540 - INFO - Found 43 informative chunks
+2025-03-08 09:34:13,543 - INFO - Processing 27 chunks from mastering-firecrawl-extract-endpoint.md
+2025-03-08 09:34:13,543 - INFO - Found 27 informative chunks
+2025-03-08 09:34:13,549 - INFO - Processing 12 chunks from mastering-firecrawl-scrape-endpoint.md
+2025-03-08 09:34:13,549 - INFO - Found 12 informative chunks
+2025-03-08 09:34:13,557 - INFO - Processing 24 chunks from mastering-the-crawl-endpoint-in-firecrawl.md
+2025-03-08 09:34:13,557 - INFO - Found 24 informative chunks
+2025-03-08 09:34:13,562 - INFO - Processing 19 chunks from open-deep-research-explainer.md
+2025-03-08 09:34:13,562 - INFO - Found 19 informative chunks
+2025-03-08 09:34:13,564 - INFO - Processing 8 chunks from openai-swarm-agent-tutorial.md
+2025-03-08 09:34:13,564 - INFO - Found 8 informative chunks
+2025-03-08 09:34:13,566 - INFO - Processing 35 chunks from python-web-scraping-projects.md
+2025-03-08 09:34:13,572 - INFO - Found 35 informative chunks
+2025-03-08 09:34:13,574 - INFO - Processing 16 chunks from sales-lead-extractor-python-ai.md
+2025-03-08 09:34:13,577 - INFO - Found 16 informative chunks
+2025-03-08 09:34:13,578 - INFO - Processing 14 chunks from scrape-analyze-airbnb-data-with-e2b.md
+2025-03-08 09:34:13,578 - INFO - Found 14 informative chunks
+2025-03-08 09:34:13,578 - INFO - Processing 17 chunks from scrape-job-boards-firecrawl-openai.md
+2025-03-08 09:34:13,578 - INFO - Found 17 informative chunks
+2025-03-08 09:34:13,583 - INFO - Processing 28 chunks from trend-finder-typescript.md
+2025-03-08 09:34:13,583 - INFO - Found 28 informative chunks
+2025-03-08 09:34:13,589 - INFO - Processing 8 chunks from using-prompt-caching-with-anthropic.md
+2025-03-08 09:34:13,589 - INFO - Found 8 informative chunks
+2025-03-08 09:34:13,591 - INFO - Processing 11 chunks from using-structured-output-and-json-strict-mode-openai.md
+2025-03-08 09:34:13,591 - INFO - Found 11 informative chunks
+2025-03-08 09:34:13,593 - INFO - Processing 7 chunks from why-companies-need-a-data-strategy-for-generative-ai.md
+2025-03-08 09:34:13,593 - INFO - Found 7 informative chunks
+2025-03-08 09:34:13,593 - INFO - Processing 6 chunks from your-ip-has-been-temporarily-blocked-or-banned.md
+2025-03-08 09:34:13,593 - INFO - Found 6 informative chunks
+2025-03-08 09:34:13,593 - INFO - Processing 42 chunks from advanced-scraping-guide.md
+2025-03-08 09:34:13,593 - INFO - Found 42 informative chunks
+2025-03-08 09:34:13,600 - INFO - Processing 4 chunks from api-reference-endpoint-batch-scrape-get-errors.md
+2025-03-08 09:34:13,600 - INFO - Found 4 informative chunks
+2025-03-08 09:34:13,600 - INFO - Processing 4 chunks from api-reference-endpoint-batch-scrape-get.md
+2025-03-08 09:34:13,600 - INFO - Found 4 informative chunks
+2025-03-08 09:34:13,600 - INFO - Processing 4 chunks from api-reference-endpoint-batch-scrape.md
+2025-03-08 09:34:13,600 - INFO - Found 4 informative chunks
+2025-03-08 09:34:13,605 - INFO - Processing 4 chunks from api-reference-endpoint-crawl-delete.md
+2025-03-08 09:34:13,605 - INFO - Found 4 informative chunks
+2025-03-08 09:34:13,605 - INFO - Processing 4 chunks from api-reference-endpoint-crawl-get-errors.md
+2025-03-08 09:34:13,607 - INFO - Found 4 informative chunks
+2025-03-08 09:34:13,607 - INFO - Processing 4 chunks from api-reference-endpoint-crawl-get.md
+2025-03-08 09:34:13,608 - INFO - Found 4 informative chunks
+2025-03-08 09:34:13,609 - INFO - Processing 4 chunks from api-reference-endpoint-crawl-post.md
+2025-03-08 09:34:13,609 - INFO - Found 4 informative chunks
+2025-03-08 09:34:13,613 - INFO - Processing 3 chunks from api-reference-endpoint-credit-usage.md
+2025-03-08 09:34:13,613 - INFO - Found 3 informative chunks
+2025-03-08 09:34:13,613 - INFO - Processing 4 chunks from api-reference-endpoint-extract-get.md
+2025-03-08 09:34:13,613 - INFO - Found 4 informative chunks
+2025-03-08 09:34:13,613 - INFO - Processing 4 chunks from api-reference-endpoint-extract.md
+2025-03-08 09:34:13,617 - INFO - Found 4 informative chunks
+2025-03-08 09:34:13,618 - INFO - Processing 8 chunks from api-reference-endpoint-llmstxt-get.md
+2025-03-08 09:34:13,618 - INFO - Found 8 informative chunks
+2025-03-08 09:34:13,618 - INFO - Processing 7 chunks from api-reference-endpoint-llmstxt.md
+2025-03-08 09:34:13,618 - INFO - Found 7 informative chunks
+2025-03-08 09:34:13,618 - INFO - Processing 4 chunks from api-reference-endpoint-map.md
+2025-03-08 09:34:13,618 - INFO - Found 4 informative chunks
+2025-03-08 09:34:13,618 - INFO - Processing 4 chunks from api-reference-endpoint-scrape.md
+2025-03-08 09:34:13,618 - INFO - Found 4 informative chunks
+2025-03-08 09:34:13,624 - INFO - Processing 4 chunks from api-reference-endpoint-search.md
+2025-03-08 09:34:13,624 - INFO - Found 4 informative chunks
+2025-03-08 09:34:13,625 - INFO - Processing 6 chunks from api-reference-introduction.md
+2025-03-08 09:34:13,625 - INFO - Found 6 informative chunks
+2025-03-08 09:34:13,626 - INFO - Processing 9 chunks from contributing-guide.md
+2025-03-08 09:34:13,626 - INFO - Found 9 informative chunks
+2025-03-08 09:34:13,627 - INFO - Processing 1 chunks from contributing-open-source-or-cloud.md
+2025-03-08 09:34:13,627 - INFO - Found 1 informative chunks
+2025-03-08 09:34:13,627 - INFO - Processing 13 chunks from contributing-self-host.md
+2025-03-08 09:34:13,627 - INFO - Found 13 informative chunks
+2025-03-08 09:34:13,629 - INFO - Processing 10 chunks from features-alpha-llmstxt-npx.md
+2025-03-08 09:34:13,630 - INFO - Found 10 informative chunks
+2025-03-08 09:34:13,630 - INFO - Processing 9 chunks from features-alpha-llmstxt.md
+2025-03-08 09:34:13,630 - INFO - Found 9 informative chunks
+2025-03-08 09:34:13,630 - INFO - Processing 11 chunks from features-batch-scrape.md
+2025-03-08 09:34:13,630 - INFO - Found 11 informative chunks
+2025-03-08 09:34:13,633 - INFO - Processing 11 chunks from features-crawl.md
+2025-03-08 09:34:13,633 - INFO - Found 11 informative chunks
+2025-03-08 09:34:13,635 - INFO - Processing 14 chunks from features-extract.md
+2025-03-08 09:34:13,635 - INFO - Found 14 informative chunks
+2025-03-08 09:34:13,635 - INFO - Processing 5 chunks from features-llm-extract.md
+2025-03-08 09:34:13,635 - INFO - Found 5 informative chunks
+2025-03-08 09:34:13,635 - INFO - Processing 8 chunks from features-map.md
+2025-03-08 09:34:13,635 - INFO - Found 8 informative chunks
+2025-03-08 09:34:13,640 - INFO - Processing 22 chunks from features-scrape.md
+2025-03-08 09:34:13,640 - INFO - Found 22 informative chunks
+2025-03-08 09:34:13,641 - INFO - Processing 11 chunks from features-search.md
+2025-03-08 09:34:13,641 - INFO - Found 11 informative chunks
+2025-03-08 09:34:13,643 - INFO - Processing 5 chunks from integrations-camelai.md
+2025-03-08 09:34:13,643 - INFO - Found 5 informative chunks
+2025-03-08 09:34:13,643 - INFO - Processing 9 chunks from integrations-crewai.md
+2025-03-08 09:34:13,643 - INFO - Found 9 informative chunks
+2025-03-08 09:34:13,643 - INFO - Processing 5 chunks from integrations-dify.md
+2025-03-08 09:34:13,643 - INFO - Found 5 informative chunks
+2025-03-08 09:34:13,646 - INFO - Processing 4 chunks from integrations-flowise.md
+2025-03-08 09:34:13,646 - INFO - Found 4 informative chunks
+2025-03-08 09:34:13,646 - INFO - Processing 6 chunks from integrations-langchain.md
+2025-03-08 09:34:13,646 - INFO - Found 6 informative chunks
+2025-03-08 09:34:13,646 - INFO - Processing 3 chunks from integrations-langflow.md
+2025-03-08 09:34:13,646 - INFO - Found 3 informative chunks
+2025-03-08 09:34:13,646 - INFO - Processing 4 chunks from integrations-llamaindex.md
+2025-03-08 09:34:13,646 - INFO - Found 4 informative chunks
+2025-03-08 09:34:13,650 - INFO - Processing 8 chunks from integrations-sourcesyncai.md
+2025-03-08 09:34:13,650 - INFO - Found 8 informative chunks
+2025-03-08 09:34:13,650 - INFO - Processing 1 chunks from integrations.md
+2025-03-08 09:34:13,650 - INFO - Found 1 informative chunks
+2025-03-08 09:34:13,651 - INFO - Processing 21 chunks from introduction.md
+2025-03-08 09:34:13,651 - INFO - Found 21 informative chunks
+2025-03-08 09:34:13,651 - INFO - Processing 25 chunks from launch-week.md
+2025-03-08 09:34:13,651 - INFO - Found 25 informative chunks
+2025-03-08 09:34:13,656 - INFO - Processing 5 chunks from rate-limits.md
+2025-03-08 09:34:13,657 - INFO - Found 5 informative chunks
+2025-03-08 09:34:13,658 - INFO - Processing 8 chunks from sdks-go.md
+2025-03-08 09:34:13,658 - INFO - Found 8 informative chunks
+2025-03-08 09:34:13,658 - INFO - Processing 11 chunks from sdks-node.md
+2025-03-08 09:34:13,660 - INFO - Found 11 informative chunks
+2025-03-08 09:34:13,660 - INFO - Processing 3 chunks from sdks-overview.md
+2025-03-08 09:34:13,660 - INFO - Found 3 informative chunks
+2025-03-08 09:34:13,660 - INFO - Processing 11 chunks from sdks-python.md
+2025-03-08 09:34:13,660 - INFO - Found 11 informative chunks
+2025-03-08 09:34:13,662 - INFO - Processing 9 chunks from sdks-rust.md
+2025-03-08 09:34:13,662 - INFO - Found 9 informative chunks
+2025-03-08 09:34:13,663 - INFO - Processing 29 chunks from v0-advanced-scraping-guide.md
+2025-03-08 09:34:13,663 - INFO - Found 29 informative chunks
+2025-03-08 09:34:13,666 - INFO - Processing 4 chunks from v0-api-reference-endpoint-crawl-cancel.md
+2025-03-08 09:34:13,666 - INFO - Found 4 informative chunks
+2025-03-08 09:34:13,668 - INFO - Processing 4 chunks from v0-api-reference-endpoint-crawl.md
+2025-03-08 09:34:13,668 - INFO - Found 4 informative chunks
+2025-03-08 09:34:13,668 - INFO - Processing 4 chunks from v0-api-reference-endpoint-scrape.md
+2025-03-08 09:34:13,668 - INFO - Found 4 informative chunks
+2025-03-08 09:34:13,672 - INFO - Processing 4 chunks from v0-api-reference-endpoint-search.md
+2025-03-08 09:34:13,672 - INFO - Found 4 informative chunks
+2025-03-08 09:34:13,672 - INFO - Processing 4 chunks from v0-api-reference-endpoint-status.md
+2025-03-08 09:34:13,672 - INFO - Found 4 informative chunks
+2025-03-08 09:34:13,675 - INFO - Processing 5 chunks from v0-api-reference-introduction.md
+2025-03-08 09:34:13,675 - INFO - Found 5 informative chunks
+2025-03-08 09:34:13,675 - INFO - Processing 7 chunks from v0-features-crawl.md
+2025-03-08 09:34:13,675 - INFO - Found 7 informative chunks
+2025-03-08 09:34:13,677 - INFO - Processing 7 chunks from v0-features-extract.md
+2025-03-08 09:34:13,677 - INFO - Found 7 informative chunks
+2025-03-08 09:34:13,677 - INFO - Processing 6 chunks from v0-features-scrape.md
+2025-03-08 09:34:13,677 - INFO - Found 6 informative chunks
+2025-03-08 09:34:13,679 - INFO - Processing 13 chunks from v0-introduction.md
+2025-03-08 09:34:13,679 - INFO - Found 13 informative chunks
+2025-03-08 09:34:13,681 - INFO - Processing 10 chunks from v0-sdks-go.md
+2025-03-08 09:34:13,681 - INFO - Found 10 informative chunks
+2025-03-08 09:34:13,681 - INFO - Processing 9 chunks from v0-sdks-node.md
+2025-03-08 09:34:13,683 - INFO - Found 9 informative chunks
+2025-03-08 09:34:13,683 - INFO - Processing 9 chunks from v0-sdks-python.md
+2025-03-08 09:34:13,683 - INFO - Found 9 informative chunks
+2025-03-08 09:34:13,686 - INFO - Processing 10 chunks from v0-sdks-rust.md
+2025-03-08 09:34:13,686 - INFO - Found 10 informative chunks
+2025-03-08 09:34:13,686 - INFO - Processing 18 chunks from v1-welcome.md
+2025-03-08 09:34:13,686 - INFO - Found 18 informative chunks
+2025-03-08 09:34:13,709 - INFO - Successfully created dataset with 1449 chunks

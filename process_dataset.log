@@ -1,0 +1,74 @@
+2025-03-15 09:14:19,414 - INFO - Found 36 markdown files to process
+2025-03-15 09:14:19,414 - INFO - Processing 5 chunks from .md
+2025-03-15 09:14:19,414 - INFO - Found 5 informative chunks
+2025-03-15 09:14:19,414 - INFO - Processing 5 chunks from basics-chat-templates.md
+2025-03-15 09:14:19,414 - INFO - Found 5 informative chunks
+2025-03-15 09:14:19,414 - INFO - Processing 4 chunks from basics-continued-pretraining.md
+2025-03-15 09:14:19,414 - INFO - Found 4 informative chunks
+2025-03-15 09:14:19,414 - INFO - Processing 9 chunks from basics-datasets-101.md
+2025-03-15 09:14:19,414 - INFO - Found 9 informative chunks
+2025-03-15 09:14:19,414 - INFO - Processing 5 chunks from basics-errors-troubleshooting.md
+2025-03-15 09:14:19,414 - INFO - Found 5 informative chunks
+2025-03-15 09:14:19,414 - INFO - Processing 2 chunks from basics-finetuning-from-last-checkpoint.md
+2025-03-15 09:14:19,414 - INFO - Found 2 informative chunks
+2025-03-15 09:14:19,414 - INFO - Processing 2 chunks from basics-reasoning-grpo-and-rl-reinforcement-learning-dpo-orpo-and-kto.md
+2025-03-15 09:14:19,414 - INFO - Found 2 informative chunks
+2025-03-15 09:14:19,427 - INFO - Processing 12 chunks from basics-reasoning-grpo-and-rl-tutorial-train-your-own-reasoning-model-with-grpo.md
+2025-03-15 09:14:19,427 - INFO - Found 12 informative chunks
+2025-03-15 09:14:19,431 - INFO - Processing 14 chunks from basics-reasoning-grpo-and-rl.md
+2025-03-15 09:14:19,431 - INFO - Found 14 informative chunks
+2025-03-15 09:14:19,433 - INFO - Processing 2 chunks from basics-running-and-saving-models-inference.md
+2025-03-15 09:14:19,433 - INFO - Found 2 informative chunks
+2025-03-15 09:14:19,435 - INFO - Processing 1 chunks from basics-running-and-saving-models-saving-to-gguf.md
+2025-03-15 09:14:19,435 - INFO - Found 1 informative chunks
+2025-03-15 09:14:19,435 - INFO - Processing 6 chunks from basics-running-and-saving-models-saving-to-ollama.md
+2025-03-15 09:14:19,435 - INFO - Found 6 informative chunks
+2025-03-15 09:14:19,435 - INFO - Processing 1 chunks from basics-running-and-saving-models-saving-to-vllm.md
+2025-03-15 09:14:19,435 - INFO - Found 1 informative chunks
+2025-03-15 09:14:19,437 - INFO - Processing 4 chunks from basics-running-and-saving-models-troubleshooting.md
+2025-03-15 09:14:19,437 - INFO - Found 4 informative chunks
+2025-03-15 09:14:19,437 - INFO - Processing 1 chunks from basics-running-and-saving-models.md
+2025-03-15 09:14:19,437 - INFO - Found 1 informative chunks
+2025-03-15 09:14:19,437 - INFO - Processing 19 chunks from basics-tutorial-how-to-finetune-llama-3-and-use-in-ollama.md
+2025-03-15 09:14:19,437 - INFO - Found 19 informative chunks
+2025-03-15 09:14:19,444 - INFO - Processing 6 chunks from basics-tutorial-how-to-run-deepseek-r1-locally-deepseek-r1-dynamic-1.58-bit.md
+2025-03-15 09:14:19,444 - INFO - Found 6 informative chunks
+2025-03-15 09:14:19,444 - INFO - Processing 6 chunks from basics-tutorial-how-to-run-deepseek-r1-locally.md
+2025-03-15 09:14:19,444 - INFO - Found 6 informative chunks
+2025-03-15 09:14:19,452 - INFO - Processing 4 chunks from basics-tutorial-how-to-run-gemma-3-effectively.md
+2025-03-15 09:14:19,452 - INFO - Found 4 informative chunks
+2025-03-15 09:14:19,452 - INFO - Processing 11 chunks from basics-tutorial-how-to-run-qwq-32b-effectively.md
+2025-03-15 09:14:19,452 - INFO - Found 11 informative chunks
+2025-03-15 09:14:19,458 - INFO - Processing 4 chunks from basics-unsloth-benchmarks.md
+2025-03-15 09:14:19,458 - INFO - Found 4 informative chunks
+2025-03-15 09:14:19,460 - INFO - Processing 1 chunks from basics-vision-fine-tuning.md
+2025-03-15 09:14:19,460 - INFO - Found 1 informative chunks
+2025-03-15 09:14:19,460 - INFO - Processing 1 chunks from get-started-all-our-models.md
+2025-03-15 09:14:19,460 - INFO - Found 1 informative chunks
+2025-03-15 09:14:19,465 - INFO - Processing 17 chunks from get-started-beginner-start-here-faq-+-is-fine-tuning-right-for-me.md
+2025-03-15 09:14:19,465 - INFO - Found 17 informative chunks
+2025-03-15 09:14:19,468 - INFO - Processing 6 chunks from get-started-beginner-start-here-lora-parameters-encyclopedia.md
+2025-03-15 09:14:19,468 - INFO - Found 6 informative chunks
+2025-03-15 09:14:19,470 - INFO - Processing 3 chunks from get-started-beginner-start-here-unsloth-requirements.md
+2025-03-15 09:14:19,470 - INFO - Found 3 informative chunks
+2025-03-15 09:14:19,470 - INFO - Processing 11 chunks from get-started-beginner-start-here-what-model-should-i-use.md
+2025-03-15 09:14:19,470 - INFO - Found 11 informative chunks
+2025-03-15 09:14:19,470 - INFO - Processing 1 chunks from get-started-beginner-start-here.md
+2025-03-15 09:14:19,470 - INFO - Found 1 informative chunks
+2025-03-15 09:14:19,476 - INFO - Processing 15 chunks from get-started-fine-tuning-guide.md
+2025-03-15 09:14:19,477 - INFO - Found 15 informative chunks
+2025-03-15 09:14:19,477 - INFO - Processing 1 chunks from get-started-installing-+-updating-conda-install.md
+2025-03-15 09:14:19,477 - INFO - Found 1 informative chunks
+2025-03-15 09:14:19,477 - INFO - Processing 2 chunks from get-started-installing-+-updating-google-colab.md
+2025-03-15 09:14:19,477 - INFO - Found 2 informative chunks
+2025-03-15 09:14:19,477 - INFO - Processing 3 chunks from get-started-installing-+-updating-pip-install.md
+2025-03-15 09:14:19,477 - INFO - Found 3 informative chunks
+2025-03-15 09:14:19,481 - INFO - Processing 4 chunks from get-started-installing-+-updating-updating.md
+2025-03-15 09:14:19,481 - INFO - Found 4 informative chunks
+2025-03-15 09:14:19,481 - INFO - Processing 8 chunks from get-started-installing-+-updating-windows-installation.md
+2025-03-15 09:14:19,485 - INFO - Found 8 informative chunks
+2025-03-15 09:14:19,485 - INFO - Processing 1 chunks from get-started-installing-+-updating.md
+2025-03-15 09:14:19,485 - INFO - Found 1 informative chunks
+2025-03-15 09:14:19,485 - INFO - Processing 6 chunks from get-started-unsloth-notebooks.md
+2025-03-15 09:14:19,485 - INFO - Found 6 informative chunks
+2025-03-15 09:14:19,491 - INFO - Successfully created dataset with 203 chunks
